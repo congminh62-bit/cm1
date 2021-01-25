@@ -1,3 +1,3 @@
-# cm1
-firstcm1
-# xin chao moi nguoi
+# CongMinh
+The first introduction
+# I really like C ++, Java, Python, JavaScript,... and if given the chance I will learn more languages. Thanks!
